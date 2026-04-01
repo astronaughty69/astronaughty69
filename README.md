@@ -1,16 +1,18 @@
-## Hi there 👋
+# astronaughty69
 
-<!--
-**astronaughty69/astronaughty69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder. Sexologist. Builder.
 
-Here are some ideas to get you started:
+I'm Dr. Lanae St.John — I've spent 15+ years working with people on desire, 
+connection, and intimacy. In 2026 I started building.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+**[GAWK](https://gawk.pics)** — The anti-doomscroll for your sex life.
+
+Look intentionally. Learn something. Be better in bed.
+
+Launching on [Product Hunt](https://www.producthunt.com/products/gawk) April 2, 2026.
+
+## More about me
+
+[lanaestjohn.com](https://lanaestjohn.com)
