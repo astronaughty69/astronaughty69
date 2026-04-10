@@ -8,10 +8,10 @@ connection, and intimacy. In 2026 I started building.
 ## What I'm building
 
 **[GAWK](https://gawk.pics)** — The anti-doomscroll for your sex life.
-
 Look intentionally. Learn something. Be better in bed.
 
-Launching on [Product Hunt](https://www.producthunt.com/products/gawk) April 2, 2026.
+**[Iris](https://github.com/astronaughty69/iris-mvp)** — A flight simulator for the coffee chat.
+Voice-first conversation coach for brilliant systematic thinkers who ace technical interviews but freeze in the small talk afterward.
 
 ## More about me
 
