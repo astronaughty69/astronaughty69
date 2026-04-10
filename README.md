@@ -11,7 +11,7 @@ connection, and intimacy. In 2026 I started building.
 Look intentionally. Learn something. Be better in bed.
 
 **[Iris](https://github.com/astronaughty69/iris-mvp)** — A flight simulator for the coffee chat.
-Voice-first conversation coach for brilliant systematic thinkers who ace technical interviews but freeze in the small talk afterward.
+Voice-first conversation coach that helps systematic thinkers turn small talk into real connection.
 
 ## More about me
 
