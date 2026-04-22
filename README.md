@@ -10,7 +10,7 @@ connection, and intimacy. In 2026 I started building.
 **[GAWK](https://gawk.pics)** — The anti-doomscroll for your sex life.
 Look intentionally. Learn something. Be better in bed.
 
-**[Iris](https://github.com/astronaughty69/iris-mvp)** — A flight simulator for the coffee chat.
+**[Iris](https://meet-iris.app/demo)** — A flight simulator for the coffee chat.
 Voice-first conversation coach that helps systematic thinkers turn small talk into real connection.
 
 ## More about me
