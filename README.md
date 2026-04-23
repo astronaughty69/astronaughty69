@@ -9,6 +9,7 @@ connection, and intimacy. In 2026 I started building.
 
 **[GAWK](https://gawk.pics/demo)** — A peep show in reverse.
 Attention training for real connection. She's looking at you.
+[Origin story](https://lanaestjohn.com/gawk-peep-show-app/) · [Substack](https://substack.com/@lanaestjohn)
 
 **[Iris](https://meet-iris.app/demo)** — A flight simulator for the coffee chat.
 Voice-first conversation coach that helps systematic thinkers turn small talk into real connection.
