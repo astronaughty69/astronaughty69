@@ -1,4 +1,3 @@
-[github_profile_README_draft.md](https://github.com/user-attachments/files/35405131/github_profile_README_draft.md)
 # Hi, I'm Dr. Lanae St.John 
 
 > 🔥 *"astronaughty" is my Burning Man playa name.*
