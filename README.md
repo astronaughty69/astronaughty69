@@ -30,7 +30,7 @@ Most people who understand AI don't understand harm. Most people who understand 
 
 &nbsp;
 
-*Screenshots coming — one per live app. (Grab a clean shot of Iris, GAWK, and Unflustered and drop them here.)*
+*Screenshots coming — one per live app.*
 
 ---
 
@@ -38,10 +38,14 @@ Most people who understand AI don't understand harm. Most people who understand 
 
 Bespoke tools I build for a real person or a real need, then sometimes generalize. The private ones stay unlinked on purpose.
 
-- **Holiday Question Coach** — a private build for a family member: practice responding to intrusive questions with composure, grounded in my Five Building Blocks framework. *(Intentionally not linked, to protect the person it was built around. Its general version, Unflustered, is in progress.)*  
-- **Values Card Sort** — a values-sorting exercise I built with Claude for a family member, to surface and prioritize what matters most. *(Private, not linked.)*  
-- **C³ ("Command Center")** — a feature-rich personal-dashboard PWA I built in a single day: event countdowns, world clocks, event tracking, spoken readouts. Now sunset. **Notable lesson:** its sign-in was client-side only, which I caught by viewing the page source — a reminder that auth needs server-side verification. *(Private, not linked.)*  
-- **Openers** — built for my partner, who lectures: turns a course syllabus into lecture openers and transitions.  
+- **Holiday Question Coach** — a private build for a family member: practice responding to intrusive questions with composure, grounded in my Five Building Blocks framework. *(Intentionally not linked, to protect the person it was built around. Its general version, Unflustered, is in progress.)*
+  
+- **Values Card Sort** — a values-sorting exercise I built with Claude for a family member, to surface and prioritize what matters most. *(Private, not linked.)*
+  
+- **C³ ("Command Center")** — a feature-rich personal-dashboard PWA I built in a single day: event countdowns, world clocks, event tracking, spoken readouts. Now sunset. **Notable lesson:** its sign-in was client-side only, which I caught by viewing the page source — a reminder that auth needs server-side verification. *(Private, not linked.)*
+  
+- **Openers** — built for my partner, who lectures: turns a course syllabus into lecture openers and transitions.
+  
 - **Career Receipts System** — a "facts before prose" tool for capturing career evidence and accomplishments as they happen.
 
 - **As If! Wardrobe** — a private digital closet with a photo fitting room and saved looks. Its Suitcase page lets you build and edit outfits for each day or occasion, then check off or export a packing list that counts reused pieces once.
@@ -55,7 +59,7 @@ Bespoke tools I build for a real person or a real need, then sometimes generaliz
 
 ### How I work
 
-Agent-first. I use **Claude Code, Lovable, GitHub, Vercel, Supabase, Stripe, and OAuth** to design, ship, and secure live products. I don't hand-code line by line, and I say so plainly. What I bring is the instinct to catch when a system falsely claims to work: a security sweep on one product surfaced a token leak and an unauthenticated cost-exhaustion vector; I was told a sign-in was "locked down," viewed the source, and found the data was publicly readable. **Verify, don't trust the claim.** That's the throughline.
+Agent-first. I use **Claude Code, Lovable, GitHub, Vercel, Supabase, Stripe, and OAuth** to design, ship, and secure live products. I don't hand-code line by line, and I say so plainly. What I bring is the instinct to catch when a system falsely claims to work: a security sweep on one product surfaced a token leak and an unauthenticated cost-exhaustion vector; I was told a sign-in was "locked down," viewed the source, and found the data was publicly readable. **Verify, don't trust the claim.** That's the way i work.
 
 ### Connect
 
