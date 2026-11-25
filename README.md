@@ -40,7 +40,7 @@ Bespoke tools I build for a real person or a real need, then sometimes generaliz
 
 - **Holiday Question Coach** — a private build for a family member: practice responding to intrusive questions with composure, grounded in my Five Building Blocks framework. *(Intentionally not linked, to protect the person it was built around. Its general version, Unflustered, is in progress.)*
   
-- **Values Card Sort** — a values-sorting exercise I built with Claude for a family member, to surface and prioritize what matters most. *(Private, not linked.)*
+- **Values Card Sort** — a values-sorting exercise I built with Claude for a family member, to surface and prioritize what matters most. *(Private, not linked.)* Your answers stay in this browser. On a shared device, use Start Over to clear them.
   
 - **C³ ("Command Center")** — a feature-rich personal-dashboard PWA I built in a single day: event countdowns, world clocks, event tracking, spoken readouts. Now sunset. **Notable lesson:** its sign-in was client-side only, which I caught by viewing the page source — a reminder that auth needs server-side verification. *(Private, not linked.)*
   
