@@ -44,6 +44,8 @@ Bespoke tools I build for a real person or a real need, then sometimes generaliz
 - **Openers** — built for my partner, who lectures: turns a course syllabus into lecture openers and transitions.  
 - **Career Receipts System** — a "facts before prose" tool for capturing career evidence and accomplishments as they happen.
 
+- **As If! Wardrobe** — a private digital closet with a photo fitting room and saved looks. Its Suitcase page lets you build and edit outfits for each day or occasion, then check off or export a packing list that counts reused pieces once.
+
 ### In progress
 
 - **Unflustered** — the general, commercial version of the holiday tool: more conversation topics, confidence tracking, and privacy-first data controls (explicit consent, data export and deletion). Grounded in my Five Building Blocks to a Healthy Sexuality (2010).  
