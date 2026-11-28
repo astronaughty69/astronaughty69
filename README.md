@@ -18,9 +18,10 @@ Most people who understand AI don't understand harm. Most people who understand 
 | :---- | :---- | :---- |
 | **Iris** | A flight simulator for the coffee chat. Voice-first conversation coach, **with paying subscribers** | [meet-iris.app](https://meet-iris.app) |
 | **GAWK** | A peep show in reverse. Attention training for real connection (sensitive-domain AI) | [gawk.pics](https://gawk.pics) |
-| **SidekickGPT** | Sensitive-domain AI: an intimacy-education assistant | [lanaestjohn.com/sidekick](https://lanaestjohn.com/sidekick) |
+| **SidekickGPT** | A custom GPT for adults with questions about sex, intimacy, or relationships. It gives brief educational guidance and points to practical next steps, grounded in Communication, Consent, and Respect. | [lanaestjohn.com/sidekick](https://lanaestjohn.com/sidekick) |
 | **Dirty Talk Generator** | Sensitive-domain AI: an interactive practice tool | [lanaestjohn.com](https://lanaestjohn.com/dirty-talk-generator/) |
 | **Unflustered** | A conversation-confidence product grounded in my own framework | *in progress* |
+| **AI Services One-Pager** | A site for coaches, therapists, wellness practitioners, course creators, and solo professionals to see what I can build and how I approach safety when their work is sensitive. | *Private source, not linked* |
 
 ---
 
@@ -44,7 +45,7 @@ Bespoke tools I build for a real person or a real need, then sometimes generaliz
   
 - **C³ ("Command Center")** — a feature-rich personal-dashboard PWA I built in a single day: event countdowns, world clocks, event tracking, spoken readouts. Now sunset. **Notable lesson:** its sign-in was client-side only, which I caught by viewing the page source — a reminder that auth needs server-side verification. *(Private, not linked.)*
   
-- **Openers** — built for my partner, who lectures: turns a course syllabus into lecture openers and transitions.
+- **Professor’s Opener**: I built this for my partner, a lecturer, to make it easier to get a class talking. It turns syllabus topics into short opening jokes and transitions into the lesson. *(Private source, not linked.)*
   
 - **Career Receipts System** — a "facts before prose" tool for capturing career evidence and accomplishments as they happen.
 
